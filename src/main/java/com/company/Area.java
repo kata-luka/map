@@ -5,7 +5,8 @@ import jdk.nashorn.internal.runtime.regexp.joni.exception.ValueException;
 public class Area {
     int width;
     int length;
-
+    String String1;
+    
     public Area(int width, int length) {
         this.width = width;
         this.length = length;
